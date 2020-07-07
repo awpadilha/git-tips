@@ -1,6 +1,8 @@
 # GIT E GITHUB
 
-Guia prático para iniciantes
+Guia prático para iniciantes informação práticas fornecidas pela Rockeatseat
+
+link: https://www.youtube.com/watch?v=2alg7MQ6_sI&t=211s
 
 ### Instalação
 
