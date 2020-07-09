@@ -19,8 +19,20 @@ Objetivos:
 
 Para dar inicio ao git, abra o seu editor de texto de sua preferencia (VS Code, Atom,  Sublime Text, etc.)
 
-Para inicia a linha do tempo, abra o terminal do editor de texto e utilize o comando: > git init
+Para inicia a linha do tempo, abra o terminal do editor de texto e utilize o comando: 
+
+# > git init 
+
 Será criado um repositório onde ser gravado as alterações do seu projeto.
+
+# > git status
+
+Ao utilizar podemos ver os projetos e pastas modificadas.
+
+# > git add <arquivo>
+
+Inclui as alteraçes dentro do projeto
+
 
 
  
