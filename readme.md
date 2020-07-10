@@ -9,11 +9,12 @@ Informações práticas fornecidas pela Rockeatseat - link: https://www.youtube.
 https:/git-scm.com/download (Será disponibilizado 3 opçẽs de download: Mac OS X, Windows e Linux/Unix.
 Selecione o sistema desejado e siga as instruções de instalação)
 
-Objetivos:
+# Vantagens em se utilizar o Git:
 
+- Sistema de controle de versão descentralizado.
+- Cada máquina se trona um repositório facilitando e agilizando a troca de informações e implementações.
 - Criar pontos na história de produção do seu projeto.
 - Verificar mudanças feitas no seu projeto.
-
 
 # Iniciando com o Git
 
@@ -32,6 +33,8 @@ Ao utilizar podemos ver os projetos e pastas modificadas.
 # > git add <arquivo>
 
 Inclui as alteraçes dentro do projeto
+
+# > 
 
 
 
