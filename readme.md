@@ -34,7 +34,9 @@ Ao utilizar podemos ver os projetos e pastas modificadas.
 
 Inclui as alteraçes dentro do projeto
 
-# > 
+# > git push
+
+Força os arquivos a serem enviados ao git
 
 
 
